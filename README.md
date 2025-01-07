@@ -1,4 +1,6 @@
-# Unstructured Document Processing with AWS Textract
+# 🚧🚦🚥🚨UNDER CONSTRUCTION
+
+## Unstructured Document Processing with AWS Textract
 
 This project implements an ingestion pipeline for processing unstructured documents such as pdfs, images or scanned documents using AWS Textract as the primary OCR and data extraction service.
 
